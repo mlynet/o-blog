@@ -37,5 +37,3 @@
 ### 技术支持（Support）
 
 如果您在使用的过程中遇到问题，请到 https://github.com/shishirui/o-blog 寻求帮助 
-
-祝您 BLOG 愉快!
