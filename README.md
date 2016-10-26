@@ -26,6 +26,7 @@
      ./bak
 
 2.运行 install.php 文件，安装程序会一步步指导您完成安装
+
 3.删除 install.php 文件。
 
 ### 管理（Manage）
