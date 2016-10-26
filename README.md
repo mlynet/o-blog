@@ -1,4 +1,4 @@
-## O-Blog 简体中文版
+# O-Blog 简体中文版
 
 ### 创作共用（Creative Commons）
 
